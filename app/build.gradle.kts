@@ -73,4 +73,17 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation("io.coil-kt:coil-compose:2.6.0")
 
+    implementation ("androidx.media3:media3-exoplayer:1.5.1")
+    implementation ("androidx.media3:media3-ui:1.5.1")
+    implementation ("androidx.media3:media3-common:1.5.1")
+    implementation ("com.burhanrashid52:photoeditor:3.0.2")
+    implementation ("io.github.rroohit:ImageCropView:3.0.1")
+    implementation ("com.google.code.gson:gson:2.8.9")
+
+
+
+
+
+
+
 }
